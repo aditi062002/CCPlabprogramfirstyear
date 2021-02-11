@@ -1,1 +1,1 @@
-# CCP Lab Programs
+# Calculates roots of quadratic equation
