@@ -1,1 +1,1 @@
-# Converts temperature from degree fahrenheit to degree celsius
+# Checks if a character is vowel or consonant
